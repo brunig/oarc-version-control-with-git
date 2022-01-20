@@ -21,3 +21,4 @@ This is not required -- all you need for the class is Git, a shell, and a text e
 
 * The tool for visualizing git actions can be found [here](http://git-school.github.io/visualizing-git/).
 
+This was a really helpful class
